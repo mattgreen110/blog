@@ -1,7 +1,29 @@
-title: Grav
-author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
+title: m@green
+description: When I can't find a solution to a problem anywhere on the internet I write it down here.
+taxonomies: [tag, featured]
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+    description: I write stuff on this website about stuff. Only a very few people care.
 
+logo: /user/images/logo.jpg
+
+date_long: 'd F Y'
+date_short: 'd M Y'
+
+author:
+    name: Matt Green
+    email: mattgreen110@gmail.com
+
+social:
+    - icon: twitter
+      url: https://twitter.com/mattgreen110
+      desc: Follow me on twitter
+      share_url: http://twitter.com/share
+      share_title: ?text=
+      share_link: "&amp;url="
+
+    - icon: github
+      url: https://github.com/mattgreen110
+      desc: Fork me on github
+      share_url:
+      share_title:
+      share_link:
